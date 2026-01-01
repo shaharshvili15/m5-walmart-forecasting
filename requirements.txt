@@ -16,3 +16,4 @@ scipy
 six
 threadpoolctl
 tzdata
+lightgbm
